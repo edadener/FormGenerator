@@ -1,0 +1,39 @@
+form{
+   font-size: 20px;
+   text-align: center;
+   padding: 20px;
+   
+}
+form legend{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  
+}
+form > input{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid gray;
+  
+}
+form > label{
+    margin-right: 20px;
+}
+.help-block{
+   display: none;
+}
+.input-xlarge{
+    margin-bottom: 30px;
+   width: 200px;
+   height: 40px;
+   border-radius: 5px;
+}
+button{
+    padding: 15px 40px;
+    margin-top: 30px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    border: none;
+    color: #fff;
+}
